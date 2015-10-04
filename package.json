@@ -1,0 +1,10 @@
+{
+  "name": "routing-app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.9.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
